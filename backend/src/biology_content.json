@@ -1,0 +1,26 @@
+[
+    {
+        "id": "dna",
+        "title": "DNA",
+        "summary": "DNA (Deoxyribonucleic acid) is the molecule that carries genetic instructions for the development and functioning of all known living organisms. It is shaped like a double helix.",
+        "sample_question": "What is the full form of DNA and what is its structure called?"
+    },
+    {
+        "id": "cell",
+        "title": "The Cell",
+        "summary": "The cell is the basic structural, functional, and biological unit of all known organisms. It is often called the 'building block of life'. Organisms can be single-celled or multicellular.",
+        "sample_question": "What is the main difference between a Prokaryotic cell and a Eukaryotic cell?"
+    },
+    {
+        "id": "nucleus",
+        "title": "Nucleus",
+        "summary": "The nucleus is called the 'brain' of the cell because it stores DNA and controls all cell functions based in that information.",
+        "sample_question": "Why is the nucleus often referred to as the 'brain' or 'control center' of the cell?"
+    },
+    {
+        "id": "cell_cycle",
+        "title": "Cell Cycle",
+        "summary": "Interphase is the phase where the cell spends the most time.",
+        "sample_question": "In which phase of the cell cycle does the cell spend the most time?"
+    }
+]
