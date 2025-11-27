@@ -18,7 +18,7 @@
         "transactionAmount": "$2,100.00",
         "transactionTime": "4:15 AM PST",
         "transactionSource": "online_transfer",
-        "case_status": "pending_review",
-        "notes": "Automated flag: Unusual location."
+        "case_status": "confirmed_safe",
+        "notes": "User confirmed the transaction of $2,100.00 at Unknown Crypto Exchange was legitimate."
     }
 ]
